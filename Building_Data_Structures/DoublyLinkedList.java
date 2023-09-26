@@ -1,4 +1,5 @@
 
+
 import org.w3c.dom.Node;
 
 public class DoublyLinkedList<T> {
@@ -205,11 +206,7 @@ public class DoublyLinkedList<T> {
 
         return sb.toString();
     }
-        
-
-
-
-    }
+}
 
 
     
